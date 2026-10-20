@@ -1,0 +1,241 @@
+Date,Food Item,Category,Quantity Prepared,Quantity Sold,Surplus Quantity,Quantity Donated,Quantity Wasted,Shelf Life (Days),Day Type,Waste Rate (%),Potential Surplus Flag
+2026-01-01,Bread,Bakery,34,27,7,2,5,1,Weekday,14.71,Yes
+2026-01-01,Croissant,Bakery,31,18,13,4,9,1,Weekday,29.03,Yes
+2026-01-01,Rice Meal,Prepared Meals,55,36,19,5,14,1,Weekday,25.45,Yes
+2026-01-01,Sandwich,Prepared Meals,34,23,11,3,8,1,Weekday,23.53,Yes
+2026-01-01,Banana,Produce,53,42,11,3,8,2,Weekday,15.09,Yes
+2026-01-01,Tomato,Produce,44,34,10,3,7,2,Weekday,15.91,Yes
+2026-01-01,Yogurt,Dairy,29,24,5,1,4,2,Weekday,13.79,Yes
+2026-01-01,Milk,Dairy,42,25,17,5,12,2,Weekday,28.57,Yes
+2026-01-02,Bread,Bakery,30,30,0,0,0,1,Weekday,0.0,No
+2026-01-02,Croissant,Bakery,34,20,14,4,10,1,Weekday,29.41,Yes
+2026-01-02,Rice Meal,Prepared Meals,56,41,15,4,11,1,Weekday,19.64,Yes
+2026-01-02,Sandwich,Prepared Meals,34,21,13,4,9,1,Weekday,26.47,Yes
+2026-01-02,Banana,Produce,52,41,11,3,8,2,Weekday,15.38,Yes
+2026-01-02,Tomato,Produce,37,35,2,0,2,2,Weekday,5.41,Yes
+2026-01-02,Yogurt,Dairy,30,23,7,2,5,2,Weekday,16.67,Yes
+2026-01-02,Milk,Dairy,44,34,10,3,7,2,Weekday,15.91,Yes
+2026-01-03,Bread,Bakery,34,32,2,0,2,1,Weekend,5.88,Yes
+2026-01-03,Croissant,Bakery,36,23,13,4,9,1,Weekend,25.0,Yes
+2026-01-03,Rice Meal,Prepared Meals,65,39,26,8,18,1,Weekend,27.69,Yes
+2026-01-03,Sandwich,Prepared Meals,41,26,15,4,11,1,Weekend,26.83,Yes
+2026-01-03,Banana,Produce,62,48,14,4,10,2,Weekend,16.13,Yes
+2026-01-03,Tomato,Produce,44,44,0,0,0,2,Weekend,0.0,No
+2026-01-03,Yogurt,Dairy,32,30,2,0,2,2,Weekend,6.25,Yes
+2026-01-03,Milk,Dairy,44,32,12,3,9,2,Weekend,20.45,Yes
+2026-01-04,Bread,Bakery,37,28,9,2,7,1,Weekend,18.92,Yes
+2026-01-04,Croissant,Bakery,31,20,11,3,8,1,Weekend,25.81,Yes
+2026-01-04,Rice Meal,Prepared Meals,60,54,6,2,4,1,Weekend,6.67,Yes
+2026-01-04,Sandwich,Prepared Meals,40,29,11,3,8,1,Weekend,20.0,Yes
+2026-01-04,Banana,Produce,51,44,7,2,5,2,Weekend,9.8,Yes
+2026-01-04,Tomato,Produce,54,44,10,3,7,2,Weekend,12.96,Yes
+2026-01-04,Yogurt,Dairy,37,26,11,3,8,2,Weekend,21.62,Yes
+2026-01-04,Milk,Dairy,39,39,0,0,0,2,Weekend,0.0,No
+2026-01-05,Bread,Bakery,37,27,10,3,7,1,Weekday,18.92,Yes
+2026-01-05,Croissant,Bakery,34,19,15,4,11,1,Weekday,32.35,Yes
+2026-01-05,Rice Meal,Prepared Meals,52,46,6,2,4,1,Weekday,7.69,Yes
+2026-01-05,Sandwich,Prepared Meals,34,27,7,2,5,1,Weekday,14.71,Yes
+2026-01-05,Banana,Produce,49,38,11,3,8,2,Weekday,16.33,Yes
+2026-01-05,Tomato,Produce,54,41,13,4,9,2,Weekday,16.67,Yes
+2026-01-05,Yogurt,Dairy,32,24,8,2,6,2,Weekday,18.75,Yes
+2026-01-05,Milk,Dairy,33,29,4,1,3,2,Weekday,9.09,Yes
+2026-01-06,Bread,Bakery,35,30,5,1,4,1,Weekday,11.43,Yes
+2026-01-06,Croissant,Bakery,33,18,15,4,11,1,Weekday,33.33,Yes
+2026-01-06,Rice Meal,Prepared Meals,52,44,8,2,6,1,Weekday,11.54,Yes
+2026-01-06,Sandwich,Prepared Meals,34,25,9,2,7,1,Weekday,20.59,Yes
+2026-01-06,Banana,Produce,52,43,9,2,7,2,Weekday,13.46,Yes
+2026-01-06,Tomato,Produce,47,33,14,4,10,2,Weekday,21.28,Yes
+2026-01-06,Yogurt,Dairy,33,20,13,4,9,2,Weekday,27.27,Yes
+2026-01-06,Milk,Dairy,38,30,8,2,6,2,Weekday,15.79,Yes
+2026-01-07,Bread,Bakery,41,27,14,4,10,1,Weekday,24.39,Yes
+2026-01-07,Croissant,Bakery,30,15,15,4,11,1,Weekday,36.67,Yes
+2026-01-07,Rice Meal,Prepared Meals,52,39,13,4,9,1,Weekday,17.31,Yes
+2026-01-07,Sandwich,Prepared Meals,36,24,12,3,9,1,Weekday,25.0,Yes
+2026-01-07,Banana,Produce,48,39,9,2,7,2,Weekday,14.58,Yes
+2026-01-07,Tomato,Produce,42,36,6,2,4,2,Weekday,9.52,Yes
+2026-01-07,Yogurt,Dairy,33,26,7,2,5,2,Weekday,15.15,Yes
+2026-01-07,Milk,Dairy,37,27,10,3,7,2,Weekday,18.92,Yes
+2026-01-08,Bread,Bakery,37,29,8,2,6,1,Weekday,16.22,Yes
+2026-01-08,Croissant,Bakery,27,18,9,2,7,1,Weekday,25.93,Yes
+2026-01-08,Rice Meal,Prepared Meals,44,44,0,0,0,1,Weekday,0.0,No
+2026-01-08,Sandwich,Prepared Meals,35,22,13,4,9,1,Weekday,25.71,Yes
+2026-01-08,Banana,Produce,48,44,4,1,3,2,Weekday,6.25,Yes
+2026-01-08,Tomato,Produce,44,37,7,2,5,2,Weekday,11.36,Yes
+2026-01-08,Yogurt,Dairy,31,22,9,2,7,2,Weekday,22.58,Yes
+2026-01-08,Milk,Dairy,32,32,0,0,0,2,Weekday,0.0,No
+2026-01-09,Bread,Bakery,38,30,8,2,6,1,Weekday,15.79,Yes
+2026-01-09,Croissant,Bakery,32,17,15,4,11,1,Weekday,34.38,Yes
+2026-01-09,Rice Meal,Prepared Meals,51,40,11,3,8,1,Weekday,15.69,Yes
+2026-01-09,Sandwich,Prepared Meals,39,23,16,4,12,1,Weekday,30.77,Yes
+2026-01-09,Banana,Produce,48,45,3,1,2,2,Weekday,4.17,Yes
+2026-01-09,Tomato,Produce,41,34,7,2,5,2,Weekday,12.2,Yes
+2026-01-09,Yogurt,Dairy,30,24,6,2,4,2,Weekday,13.33,Yes
+2026-01-09,Milk,Dairy,33,29,4,1,3,2,Weekday,9.09,Yes
+2026-01-10,Bread,Bakery,45,28,17,5,12,1,Weekend,26.67,Yes
+2026-01-10,Croissant,Bakery,30,21,9,2,7,1,Weekend,23.33,Yes
+2026-01-10,Rice Meal,Prepared Meals,56,46,10,3,7,1,Weekend,12.5,Yes
+2026-01-10,Sandwich,Prepared Meals,41,26,15,4,11,1,Weekend,26.83,Yes
+2026-01-10,Banana,Produce,63,45,18,5,13,2,Weekend,20.63,Yes
+2026-01-10,Tomato,Produce,44,41,3,1,2,2,Weekend,4.55,Yes
+2026-01-10,Yogurt,Dairy,36,29,7,2,5,2,Weekend,13.89,Yes
+2026-01-10,Milk,Dairy,37,33,4,1,3,2,Weekend,8.11,Yes
+2026-01-11,Bread,Bakery,48,31,17,5,12,1,Weekend,25.0,Yes
+2026-01-11,Croissant,Bakery,36,19,17,5,12,1,Weekend,33.33,Yes
+2026-01-11,Rice Meal,Prepared Meals,63,47,16,4,12,1,Weekend,19.05,Yes
+2026-01-11,Sandwich,Prepared Meals,43,24,19,5,14,1,Weekend,32.56,Yes
+2026-01-11,Banana,Produce,60,46,14,4,10,2,Weekend,16.67,Yes
+2026-01-11,Tomato,Produce,50,38,12,3,9,2,Weekend,18.0,Yes
+2026-01-11,Yogurt,Dairy,32,23,9,2,7,2,Weekend,21.88,Yes
+2026-01-11,Milk,Dairy,43,31,12,3,9,2,Weekend,20.93,Yes
+2026-01-12,Bread,Bakery,43,29,14,4,10,1,Weekday,23.26,Yes
+2026-01-12,Croissant,Bakery,31,21,10,3,7,1,Weekday,22.58,Yes
+2026-01-12,Rice Meal,Prepared Meals,54,46,8,2,6,1,Weekday,11.11,Yes
+2026-01-12,Sandwich,Prepared Meals,30,22,8,2,6,1,Weekday,20.0,Yes
+2026-01-12,Banana,Produce,54,41,13,4,9,2,Weekday,16.67,Yes
+2026-01-12,Tomato,Produce,50,37,13,4,9,2,Weekday,18.0,Yes
+2026-01-12,Yogurt,Dairy,29,28,1,0,1,2,Weekday,3.45,Yes
+2026-01-12,Milk,Dairy,38,30,8,2,6,2,Weekday,15.79,Yes
+2026-01-13,Bread,Bakery,39,25,14,4,10,1,Weekday,25.64,Yes
+2026-01-13,Croissant,Bakery,29,20,9,2,7,1,Weekday,24.14,Yes
+2026-01-13,Rice Meal,Prepared Meals,51,42,9,2,7,1,Weekday,13.73,Yes
+2026-01-13,Sandwich,Prepared Meals,32,24,8,2,6,1,Weekday,18.75,Yes
+2026-01-13,Banana,Produce,52,44,8,2,6,2,Weekday,11.54,Yes
+2026-01-13,Tomato,Produce,43,34,9,2,7,2,Weekday,16.28,Yes
+2026-01-13,Yogurt,Dairy,32,27,5,1,4,2,Weekday,12.5,Yes
+2026-01-13,Milk,Dairy,39,38,1,0,1,2,Weekday,2.56,Yes
+2026-01-14,Bread,Bakery,40,26,14,4,10,1,Weekday,25.0,Yes
+2026-01-14,Croissant,Bakery,29,21,8,2,6,1,Weekday,20.69,Yes
+2026-01-14,Rice Meal,Prepared Meals,50,42,8,2,6,1,Weekday,12.0,Yes
+2026-01-14,Sandwich,Prepared Meals,30,23,7,2,5,1,Weekday,16.67,Yes
+2026-01-14,Banana,Produce,52,45,7,2,5,2,Weekday,9.62,Yes
+2026-01-14,Tomato,Produce,47,40,7,2,5,2,Weekday,10.64,Yes
+2026-01-14,Yogurt,Dairy,30,28,2,0,2,2,Weekday,6.67,Yes
+2026-01-14,Milk,Dairy,43,26,17,5,12,2,Weekday,27.91,Yes
+2026-01-15,Bread,Bakery,36,29,7,2,5,1,Weekday,13.89,Yes
+2026-01-15,Croissant,Bakery,31,21,10,3,7,1,Weekday,22.58,Yes
+2026-01-15,Rice Meal,Prepared Meals,55,38,17,5,12,1,Weekday,21.82,Yes
+2026-01-15,Sandwich,Prepared Meals,32,27,5,1,4,1,Weekday,12.5,Yes
+2026-01-15,Banana,Produce,50,35,15,4,11,2,Weekday,22.0,Yes
+2026-01-15,Tomato,Produce,44,39,5,1,4,2,Weekday,9.09,Yes
+2026-01-15,Yogurt,Dairy,31,26,5,1,4,2,Weekday,12.9,Yes
+2026-01-15,Milk,Dairy,39,31,8,2,6,2,Weekday,15.38,Yes
+2026-01-16,Bread,Bakery,36,28,8,2,6,1,Weekday,16.67,Yes
+2026-01-16,Croissant,Bakery,31,17,14,4,10,1,Weekday,32.26,Yes
+2026-01-16,Rice Meal,Prepared Meals,59,50,9,2,7,1,Weekday,11.86,Yes
+2026-01-16,Sandwich,Prepared Meals,37,24,13,4,9,1,Weekday,24.32,Yes
+2026-01-16,Banana,Produce,50,38,12,3,9,2,Weekday,18.0,Yes
+2026-01-16,Tomato,Produce,50,35,15,4,11,2,Weekday,22.0,Yes
+2026-01-16,Yogurt,Dairy,30,29,1,0,1,2,Weekday,3.33,Yes
+2026-01-16,Milk,Dairy,41,29,12,3,9,2,Weekday,21.95,Yes
+2026-01-17,Bread,Bakery,45,31,14,4,10,1,Weekend,22.22,Yes
+2026-01-17,Croissant,Bakery,35,17,18,5,13,1,Weekend,37.14,Yes
+2026-01-17,Rice Meal,Prepared Meals,57,41,16,4,12,1,Weekend,21.05,Yes
+2026-01-17,Sandwich,Prepared Meals,39,24,15,4,11,1,Weekend,28.21,Yes
+2026-01-17,Banana,Produce,57,53,4,1,3,2,Weekend,5.26,Yes
+2026-01-17,Tomato,Produce,52,37,15,4,11,2,Weekend,21.15,Yes
+2026-01-17,Yogurt,Dairy,35,28,7,2,5,2,Weekend,14.29,Yes
+2026-01-17,Milk,Dairy,37,37,0,0,0,2,Weekend,0.0,No
+2026-01-18,Bread,Bakery,45,32,13,4,9,1,Weekend,20.0,Yes
+2026-01-18,Croissant,Bakery,36,21,15,4,11,1,Weekend,30.56,Yes
+2026-01-18,Rice Meal,Prepared Meals,67,49,18,5,13,1,Weekend,19.4,Yes
+2026-01-18,Sandwich,Prepared Meals,36,26,10,3,7,1,Weekend,19.44,Yes
+2026-01-18,Banana,Produce,55,49,6,2,4,2,Weekend,7.27,Yes
+2026-01-18,Tomato,Produce,57,35,22,6,16,2,Weekend,28.07,Yes
+2026-01-18,Yogurt,Dairy,35,25,10,3,7,2,Weekend,20.0,Yes
+2026-01-18,Milk,Dairy,43,36,7,2,5,2,Weekend,11.63,Yes
+2026-01-19,Bread,Bakery,45,23,22,6,16,1,Weekday,35.56,Yes
+2026-01-19,Croissant,Bakery,30,21,9,2,7,1,Weekday,23.33,Yes
+2026-01-19,Rice Meal,Prepared Meals,51,45,6,2,4,1,Weekday,7.84,Yes
+2026-01-19,Sandwich,Prepared Meals,36,27,9,2,7,1,Weekday,19.44,Yes
+2026-01-19,Banana,Produce,51,33,18,5,13,2,Weekday,25.49,Yes
+2026-01-19,Tomato,Produce,41,37,4,1,3,2,Weekday,7.32,Yes
+2026-01-19,Yogurt,Dairy,31,24,7,2,5,2,Weekday,16.13,Yes
+2026-01-19,Milk,Dairy,41,27,14,4,10,2,Weekday,24.39,Yes
+2026-01-20,Bread,Bakery,40,30,10,3,7,1,Weekday,17.5,Yes
+2026-01-20,Croissant,Bakery,25,19,6,2,4,1,Weekday,16.0,Yes
+2026-01-20,Rice Meal,Prepared Meals,53,40,13,4,9,1,Weekday,16.98,Yes
+2026-01-20,Sandwich,Prepared Meals,41,22,19,5,14,1,Weekday,34.15,Yes
+2026-01-20,Banana,Produce,52,38,14,4,10,2,Weekday,19.23,Yes
+2026-01-20,Tomato,Produce,41,37,4,1,3,2,Weekday,7.32,Yes
+2026-01-20,Yogurt,Dairy,34,24,10,3,7,2,Weekday,20.59,Yes
+2026-01-20,Milk,Dairy,39,30,9,2,7,2,Weekday,17.95,Yes
+2026-01-21,Bread,Bakery,43,28,15,4,11,1,Weekday,25.58,Yes
+2026-01-21,Croissant,Bakery,30,20,10,3,7,1,Weekday,23.33,Yes
+2026-01-21,Rice Meal,Prepared Meals,57,43,14,4,10,1,Weekday,17.54,Yes
+2026-01-21,Sandwich,Prepared Meals,33,24,9,2,7,1,Weekday,21.21,Yes
+2026-01-21,Banana,Produce,48,46,2,0,2,2,Weekday,4.17,Yes
+2026-01-21,Tomato,Produce,44,39,5,1,4,2,Weekday,9.09,Yes
+2026-01-21,Yogurt,Dairy,30,26,4,1,3,2,Weekday,10.0,Yes
+2026-01-21,Milk,Dairy,33,29,4,1,3,2,Weekday,9.09,Yes
+2026-01-22,Bread,Bakery,43,28,15,4,11,1,Weekday,25.58,Yes
+2026-01-22,Croissant,Bakery,24,18,6,2,4,1,Weekday,16.67,Yes
+2026-01-22,Rice Meal,Prepared Meals,53,40,13,4,9,1,Weekday,16.98,Yes
+2026-01-22,Sandwich,Prepared Meals,30,20,10,3,7,1,Weekday,23.33,Yes
+2026-01-22,Banana,Produce,56,40,16,4,12,2,Weekday,21.43,Yes
+2026-01-22,Tomato,Produce,47,39,8,2,6,2,Weekday,12.77,Yes
+2026-01-22,Yogurt,Dairy,29,25,4,1,3,2,Weekday,10.34,Yes
+2026-01-22,Milk,Dairy,38,27,11,3,8,2,Weekday,21.05,Yes
+2026-01-23,Bread,Bakery,40,27,13,4,9,1,Weekday,22.5,Yes
+2026-01-23,Croissant,Bakery,30,18,12,3,9,1,Weekday,30.0,Yes
+2026-01-23,Rice Meal,Prepared Meals,52,42,10,3,7,1,Weekday,13.46,Yes
+2026-01-23,Sandwich,Prepared Meals,32,26,6,2,4,1,Weekday,12.5,Yes
+2026-01-23,Banana,Produce,51,41,10,3,7,2,Weekday,13.73,Yes
+2026-01-23,Tomato,Produce,43,38,5,1,4,2,Weekday,9.3,Yes
+2026-01-23,Yogurt,Dairy,31,23,8,2,6,2,Weekday,19.35,Yes
+2026-01-23,Milk,Dairy,39,35,4,1,3,2,Weekday,7.69,Yes
+2026-01-24,Bread,Bakery,51,32,19,5,14,1,Weekend,27.45,Yes
+2026-01-24,Croissant,Bakery,32,27,5,1,4,1,Weekend,12.5,Yes
+2026-01-24,Rice Meal,Prepared Meals,63,48,15,4,11,1,Weekend,17.46,Yes
+2026-01-24,Sandwich,Prepared Meals,36,26,10,3,7,1,Weekend,19.44,Yes
+2026-01-24,Banana,Produce,53,43,10,3,7,2,Weekend,13.21,Yes
+2026-01-24,Tomato,Produce,50,41,9,2,7,2,Weekend,14.0,Yes
+2026-01-24,Yogurt,Dairy,36,27,9,2,7,2,Weekend,19.44,Yes
+2026-01-24,Milk,Dairy,36,35,1,0,1,2,Weekend,2.78,Yes
+2026-01-25,Bread,Bakery,42,30,12,3,9,1,Weekend,21.43,Yes
+2026-01-25,Croissant,Bakery,29,21,8,2,6,1,Weekend,20.69,Yes
+2026-01-25,Rice Meal,Prepared Meals,62,46,16,4,12,1,Weekend,19.35,Yes
+2026-01-25,Sandwich,Prepared Meals,37,24,13,4,9,1,Weekend,24.32,Yes
+2026-01-25,Banana,Produce,61,43,18,5,13,2,Weekend,21.31,Yes
+2026-01-25,Tomato,Produce,45,38,7,2,5,2,Weekend,11.11,Yes
+2026-01-25,Yogurt,Dairy,35,26,9,2,7,2,Weekend,20.0,Yes
+2026-01-25,Milk,Dairy,42,34,8,2,6,2,Weekend,14.29,Yes
+2026-01-26,Bread,Bakery,44,32,12,3,9,1,Weekday,20.45,Yes
+2026-01-26,Croissant,Bakery,28,18,10,3,7,1,Weekday,25.0,Yes
+2026-01-26,Rice Meal,Prepared Meals,53,46,7,2,5,1,Weekday,9.43,Yes
+2026-01-26,Sandwich,Prepared Meals,39,26,13,4,9,1,Weekday,23.08,Yes
+2026-01-26,Banana,Produce,49,42,7,2,5,2,Weekday,10.2,Yes
+2026-01-26,Tomato,Produce,41,36,5,1,4,2,Weekday,9.76,Yes
+2026-01-26,Yogurt,Dairy,32,23,9,2,7,2,Weekday,21.88,Yes
+2026-01-26,Milk,Dairy,38,34,4,1,3,2,Weekday,7.89,Yes
+2026-01-27,Bread,Bakery,38,28,10,3,7,1,Weekday,18.42,Yes
+2026-01-27,Croissant,Bakery,29,15,14,4,10,1,Weekday,34.48,Yes
+2026-01-27,Rice Meal,Prepared Meals,58,38,20,5,15,1,Weekday,25.86,Yes
+2026-01-27,Sandwich,Prepared Meals,30,24,6,2,4,1,Weekday,13.33,Yes
+2026-01-27,Banana,Produce,50,43,7,2,5,2,Weekday,10.0,Yes
+2026-01-27,Tomato,Produce,46,40,6,2,4,2,Weekday,8.7,Yes
+2026-01-27,Yogurt,Dairy,32,27,5,1,4,2,Weekday,12.5,Yes
+2026-01-27,Milk,Dairy,39,27,12,3,9,2,Weekday,23.08,Yes
+2026-01-28,Bread,Bakery,40,29,11,3,8,1,Weekday,20.0,Yes
+2026-01-28,Croissant,Bakery,30,19,11,3,8,1,Weekday,26.67,Yes
+2026-01-28,Rice Meal,Prepared Meals,54,49,5,1,4,1,Weekday,7.41,Yes
+2026-01-28,Sandwich,Prepared Meals,36,22,14,4,10,1,Weekday,27.78,Yes
+2026-01-28,Banana,Produce,54,43,11,3,8,2,Weekday,14.81,Yes
+2026-01-28,Tomato,Produce,45,36,9,2,7,2,Weekday,15.56,Yes
+2026-01-28,Yogurt,Dairy,25,19,6,2,4,2,Weekday,16.0,Yes
+2026-01-28,Milk,Dairy,36,34,2,0,2,2,Weekday,5.56,Yes
+2026-01-29,Bread,Bakery,41,24,17,5,12,1,Weekday,29.27,Yes
+2026-01-29,Croissant,Bakery,31,22,9,2,7,1,Weekday,22.58,Yes
+2026-01-29,Rice Meal,Prepared Meals,49,40,9,2,7,1,Weekday,14.29,Yes
+2026-01-29,Sandwich,Prepared Meals,30,21,9,2,7,1,Weekday,23.33,Yes
+2026-01-29,Banana,Produce,41,38,3,1,2,2,Weekday,4.88,Yes
+2026-01-29,Tomato,Produce,45,37,8,2,6,2,Weekday,13.33,Yes
+2026-01-29,Yogurt,Dairy,33,27,6,2,4,2,Weekday,12.12,Yes
+2026-01-29,Milk,Dairy,36,24,12,3,9,2,Weekday,25.0,Yes
+2026-01-30,Bread,Bakery,40,28,12,3,9,1,Weekday,22.5,Yes
+2026-01-30,Croissant,Bakery,27,20,7,2,5,1,Weekday,18.52,Yes
+2026-01-30,Rice Meal,Prepared Meals,52,44,8,2,6,1,Weekday,11.54,Yes
+2026-01-30,Sandwich,Prepared Meals,36,27,9,2,7,1,Weekday,19.44,Yes
+2026-01-30,Banana,Produce,42,36,6,2,4,2,Weekday,9.52,Yes
+2026-01-30,Tomato,Produce,43,40,3,1,2,2,Weekday,4.65,Yes
+2026-01-30,Yogurt,Dairy,35,24,11,3,8,2,Weekday,22.86,Yes
+2026-01-30,Milk,Dairy,37,35,2,0,2,2,Weekday,5.41,Yes
